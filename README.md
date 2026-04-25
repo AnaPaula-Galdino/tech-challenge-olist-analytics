@@ -57,8 +57,6 @@ O objetivo é **transformar dados transacionais em uma narrativa clara** sobre d
 │   └── Tech_Challenge_Relatorio_Executivo_Olist.docx  ← Relatório executivo (8 seções)
 ├── apresentacao/
 │   └── Tech_Challenge_Apresentacao_Executiva_Olist.pptx ← Slides (10 slides, 16:9)
-├── roteiro/
-│   └── Tech_Challenge_Roteiro_Video_Olist.docx        ← Roteiro cronometrado do vídeo
 ├── video/
 │   └── link_video.txt                                 ← Link do vídeo de até 5 minutos
 └── data/
@@ -142,13 +140,7 @@ A escolha por paleta azul sem cores quentes (vermelho, amarelo, verde) mantém o
 
 ## 📥 Como reproduzir a análise
 
-### 1. Clone o repositório
-```bash
-git clone https://github.com/<seu-usuario>/<nome-do-repo>.git
-cd <nome-do-repo>
-```
-
-### 2. Baixe o dataset
+### 1. Baixe o dataset
 O dataset não é versionado neste repositório (~50 MB). Faça o download diretamente do Kaggle:
 
 🔗 [Brazilian E-Commerce Public Dataset by Olist — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
@@ -166,7 +158,7 @@ data/
 └── olist_sellers_dataset.csv
 ```
 
-### 3. Execute o notebook
+### 2. Execute o notebook
 Abra `notebook/TECH_CHALLENGE.ipynb` no Google Colab ou Jupyter e execute as células sequencialmente.
 
 ```bash
@@ -174,7 +166,7 @@ Abra `notebook/TECH_CHALLENGE.ipynb` no Google Colab ou Jupyter e execute as cé
 jupyter notebook notebook/TECH_CHALLENGE.ipynb
 ```
 
-### 4. Consulte os entregáveis
+### 3. Consulte os entregáveis
 - **Relatório executivo** em `relatorio/`
 - **Slides** em `apresentacao/`
 - **Roteiro do vídeo** em `roteiro/`
@@ -203,8 +195,6 @@ jupyter notebook notebook/TECH_CHALLENGE.ipynb
 ## 📜 Licença e uso
 
 Este projeto foi desenvolvido como entrega acadêmica do programa POSTECH/FIAP. O dataset é público e pertence à Olist (publicado no Kaggle sob CC BY-NC-SA 4.0). O conteúdo analítico, o relatório, os slides e o código deste repositório são de autoria de **Ana Paula Corrêa Galdino**.
-
-Sinta-se à vontade para usar como referência de estudo, citando a fonte.
 
 ---
 
