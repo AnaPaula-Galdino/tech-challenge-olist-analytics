@@ -207,5 +207,5 @@ Este projeto foi desenvolvido como entrega acadêmica do programa POSTECH/FIAP. 
 ---
 
 <p align="center">
-  <i>Tech Challenge — Fase 1 | Abril 2026</i>
+  <i>Tech Challenge — Fase 1 | 2026</i>
 </p>
