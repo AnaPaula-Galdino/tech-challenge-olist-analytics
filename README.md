@@ -67,6 +67,8 @@ O objetivo é **transformar dados transacionais em uma narrativa clara** sobre d
 
 ## 📊 Conteúdo da análise
 
+Link Youtube: https://youtu.be/qgU5SbSBqPY?si=LNoLshrFBdix_mz3
+
 A análise está estruturada em cinco grandes blocos, cobrindo as trilhas analíticas sugeridas no enunciado:
 
 ### 1. Crescimento e Receita
